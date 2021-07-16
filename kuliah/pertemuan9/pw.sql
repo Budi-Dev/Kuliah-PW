@@ -1,0 +1,1 @@
+SELECT * FROM ika WHERE id = 1 AND name = budi;
